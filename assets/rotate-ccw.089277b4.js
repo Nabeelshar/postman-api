@@ -1,0 +1,2 @@
+import{o as t,d as o,e}from"./index.cb7d2b1b.js";const r={preserveAspectRatio:"xMidYMid meet",viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"},n=e("g",{fill:"none",stroke:"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2"},[e("path",{d:"M3 2v6h6"}),e("path",{d:"M3 13a9 9 0 1 0 3-7.7L3 8"})],-1),c=[n];function s(i,a){return t(),o("svg",r,c)}const h={name:"lucide-rotate-ccw",render:s};export{h as I};
+//# sourceMappingURL=rotate-ccw.089277b4.js.map
